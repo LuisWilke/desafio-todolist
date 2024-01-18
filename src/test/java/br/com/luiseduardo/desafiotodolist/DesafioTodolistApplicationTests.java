@@ -7,7 +7,12 @@ import org.springframework.boot.test.context.SpringBootTest;
 class DesafioTodolistApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void testCreateTodoSuccess() {
+	}
+
+	@Test
+	void testCreateTodoFailure() {
+		
 	}
 
 }
